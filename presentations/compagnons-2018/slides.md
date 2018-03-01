@@ -37,14 +37,14 @@
 %%%
 ### Par quels moyens ?
 Les 3 temps   
-<Image des 3 temps>
+-- Image des 3 temps --
 
 %%%
 <span style="text-align: left">L'"expériment"</span>
 Une action 
 - co-construite avec un partenaire extérieur aux scouts,  
 - Axée selon une ou plusieurs "pistes d'action"   
-<images pistes d'action>
+-- images pistes d'action --
 - Relue en équipe
 
 %%%
