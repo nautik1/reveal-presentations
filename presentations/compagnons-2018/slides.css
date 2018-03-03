@@ -1,0 +1,99 @@
+.left {
+    left:-8.33%;
+    text-align: left;
+    float: left;
+    width:50%;
+    z-index:-10;
+}
+
+.right {
+    left:31.25%;
+    top: 75px;
+    float: right;
+    text-align: right;
+    z-index:-10;
+    width:50%;
+}
+
+.left.left-big {
+    width:70%;
+}
+
+.left.left-thin {
+    width:30%;
+}
+
+.right.right-big {
+    width:70%;
+}
+
+.right.right-thin {
+    width:30%;
+}
+
+img#home-img {
+    width: 150px;
+    border: none;
+}
+
+div.video-block {
+    font-size: 20px;
+}
+
+div .video-block iframe {
+    width: 225px;
+    height: 210px;
+}
+
+div.movement-goal {
+    text-align: left;
+    position: relative;
+    bottom: -40px;
+    z-index: -10;
+}
+
+div.statuses {
+    font-size: 32px;
+}
+
+div.statuses img {
+    max-height: 530px;
+}
+
+div.statuses li {
+    margin: 20px 0px;
+}
+
+div.statuses .bottom-notes {
+    font-size: 25px;
+    position: absolute;
+    bottom: 20px;
+}
+
+div.experiment img {
+    height: 330px;
+}
+
+div.experiment div.right > div {
+    padding: 20px;
+    font-size: 30px;
+    text-align: left;
+}
+
+div.echelons {
+    text-align: left;
+}
+
+div.echelons h6 {
+    margin-top: 10px;
+    margin-bottom: 0px;
+}
+
+div.echelons ul {
+    padding: 15px;
+    font-size: 35px;
+}
+
+div.project img {
+    max-height: 550px;
+}
